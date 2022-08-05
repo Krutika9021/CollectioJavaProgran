@@ -1,3 +1,5 @@
+//Write a Java program to create a new priority queue, add some colors (string) and print out the elements of the priority queue.
+
 import java.util.PriorityQueue;
 public class Create_PriorityQueue 
 {
