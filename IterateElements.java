@@ -1,3 +1,6 @@
+//Write a Java program to iterate through all elements in a array list.
+
+
 import java.util.ArrayList;
 public class IterateElements               
 {
