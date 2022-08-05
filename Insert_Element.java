@@ -1,3 +1,6 @@
+//Write a Java program to insert the specified element at the specified position in the linked list.
+
+
 import java.util.LinkedList;
 
 public class Insert_Element 
