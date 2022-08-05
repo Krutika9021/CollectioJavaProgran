@@ -1,3 +1,6 @@
+//Write a Java program to get the number of elements in a hash set.
+
+
 import java.util.*;
 import java.util.Iterator.*;
 public class Get_Size 
