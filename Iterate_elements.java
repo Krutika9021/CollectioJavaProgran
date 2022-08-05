@@ -1,3 +1,6 @@
+//Write a Java program to iterate through all elements in priority queue.
+
+
 import java.util.PriorityQueue;
 public class Iterate_elements
 {
