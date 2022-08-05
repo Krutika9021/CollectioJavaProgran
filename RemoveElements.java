@@ -1,3 +1,6 @@
+//Write a Java program to remove all of the mappings from a map.
+
+
 import java.util.*;
 public class RemoveElements
 {
