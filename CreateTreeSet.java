@@ -1,3 +1,5 @@
+//Write a Java program to create a new tree set, add some colors (string) and print out the tree set
+
 import java.util.TreeSet;
 public class CreateTreeSet
 {
